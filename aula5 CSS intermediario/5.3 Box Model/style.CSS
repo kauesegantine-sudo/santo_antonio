@@ -1,0 +1,25 @@
+.caixa {
+  width: 200px;
+  height: 200px;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+}
+
+.caixa-1 {
+  background-color: #38bdf8;
+  padding: 20px;
+  margin-bottom: 25px;
+}
+
+.caixa-2 {
+  background-color: #a855f7;
+}
+
+.btn-arredondado {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  background-color: #10b981;
+  color: #ffffff;
+  border-radius: 8px;
+}

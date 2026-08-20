@@ -1,0 +1,21 @@
+body {
+  background-color: #f4f6f8;
+}
+
+h1 {
+  color: #0066cc;
+}
+
+p {
+  color: #333333;
+}
+
+.destaque {
+  color: #e63946;
+}
+
+#principal {
+  background-color: #f0f0f0;
+  color: rgb(0, 128, 0);
+  padding: 16px;
+}
